@@ -1,0 +1,7 @@
+.terraform/**
+*.out
+tf-digitalocean
+tf-digitalocean.pub
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
